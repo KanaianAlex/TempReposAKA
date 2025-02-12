@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Produktanfrage</title>
+	
+	<style>
+		body {
+            background-color: #E5E5E5;
+            font-family: Arial, sans-serif;
+            font-size: 18px;
+        }
+        
+        .form-row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        
+        .form-label {
+            flex: 0 0 150px; /* maximale Textlänge pro Zeile */
+            text-align: right; /* Text soll am Ende rechts vertikal übereinander angeordnet sein */
+            padding-right: 5px; /* Abstand zwischen Text und input- / selection-Feldern */
+        }
+        
+        .form-input {
+            flex: 1;
+        }
+        
+        .form-input input,
+        .form-input select {
+            box-sizing: border-box;
+        }
+        
+        .right-aligned {
+            width: 100px;
+        }
+        
+        .container {
+            display: flex;
+			justify-content: space-between;
+        }
+        
+        .label-text {
+            white-space: nowrap;
+            margin-right: 10px;
+        }
+        
+        .radio-group {
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .radio-option {
+            margin-bottom: 5px;
+        }
+
+		.aligned-top-container {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .left-aligned {
+    		width: 48%;
+		}
+
+        .right-aligned {
+            width: 70%;
+        }
+
+		.product-section {
+            display: flex;
+            align-items: flex-start;
+        }
+
+		.product-label {
+            flex: 0 0 auto;
+            margin-right: 10px;
+        }
+
+		.radio-group {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
+
+		.first-radio-option {
+    		margin-top: 5px;
+		}
+
+		.right-section-container {
+    		display: flex;
+    		flex-direction: column;
+		}
+
+		.left-aligned,
+		.right-section-container {
+    		margin-right: 20%;
+		}
+	</style>
+</head>
+
+<body>
+	<form action = "formular_produktanfrage.php" method = "post">
+		
+		<div class = "aligned-top-container">
+            <div class = "left-aligned">
+				<div class = "form-row">
+					<label class = "form-label">Anrede:</label>
+					<div class = "form-input">
+						<select name = "anrede" style = "width: 70px;">
+							<option value = "m">Herr</option>
+							<option value = "w">Frau</option>	
+						</select>
+					</div>
+				</div>
+
+				<div class = "form-row">
+					<label class = "form-label">Ihre Firma:</label>
+					<div class = "form-input">
+						<input name = "firma" type = "text" size = "15" maxlength = "15">
+					</div>
+				</div>
+				
+				<div class = "form-row">
+					<label class = "form-label">Ihr Vorname / Ihr Name:</label>
+					<div class = "form-input">
+						<input name = "vorname" type = "text" size = "9" maxlength = "9">
+						<input name = "nachname" type = "text" size = "8" maxlength = "8">
+					</div>
+				</div>
+	
+				<div class="form-row">
+					<label class="form-label">Ihre Straße:</label>
+					<div class="form-input">
+						<input name = "strasse" type = "text" size = "15" maxlength = "15">
+					</div>
+				</div>
+				
+				<div class = "form-row">
+					<label class = "form-label">PLZ / Ort:</label>
+					<div class = "form-input">
+						<input name = "plz" type = "text" size = "3" maxlength = "5">
+						<input name = "ort" type = "text" size = "10" maxlength = "10">
+					</div>
+				</div>
+				
+				<div class = "form-row">
+					<label class = "form-label">Ihr Land:</label>
+					<div class = "form-input">
+						<select name = "land" style = "width: 250px;">
+							<option value = "de"> Deutschland </option>
+							<option value = "un"> Ungarn </option>
+							<option value = "po"> Polen </option>
+						</select>
+					</div>
+				</div>
+				
+				<div class = "form-row">
+					<label class = "form-label">Telefon-Nummer:</label>
+					<div class = "form-input">
+						<input name = "telNummer" type = "text" size = "15" maxlength = "15">
+					</div>
+				</div>
+	
+				<div class = "form-row">
+					<label class = "form-label">eMail:</label>
+					<div class = "form-input">
+						<input name = "mailAddress" type = "text" size = "15" maxlength = "20">
+					</div>
+				</div>
+            </div>
+
+			<div class = "right-section-container">
+				<div class = "right-aligned">
+					<div class = "product-section">
+						<div class = "product-label">Produkt:</div>
+						<div class = "radio-group">
+							<label class = "radio-option first-radio-option"><input type = "radio" name = "produkt" value = "monitor">Monitore</label>
+							<label class = "radio-option"><input type = "radio" name = "produkt" value = "grafikkarte">Grafikkarten</label>
+							<label class = "radio-option"><input type = "radio" name = "produkt" value = "prozessor">Prozessoren</label>
+							<label class = "radio-option"><input type = "radio" name = "produkt" value = "kuehlung">Kühlung</label>
+							<label class = "radio-option"><input type = "radio" name = "produkt" value = "festplatte">Festplatten</label>
+							<label class = "radio-option"><input type = "radio" name = "produkt" value = "soundkarte">Soundkarten</label>
+						</div>
+					</div>
+				</div>
+	
+				<p>
+					<br>Bitte geben Sie hier Ihre Frage ein:<br>
+					<textarea name = "feedback" cols = "40" rows = "10"></textarea>
+					<hr size = "2" color = "black" width = "85%" align = "center">
+					<div class = "container">
+						<div class = "label-text">
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gewünschter Kontakt:
+						</div>
+						<div class = "radio-group">
+							<label class = "radio-option"><input type = "radio" name = "kontakt" value = "mail">eMail</label>
+							<label class = "radio-option"><input type = "radio" name = "kontakt" value = "telefon">Telefon</label>
+							<label class = "radio-option"><input type = "radio" name = "kontakt" value = "nichts">Nicht notwendig</label>
+						</div>
+					</div>
+				</p>
+						
+			</div>
+        </div>
+		
+	</form>
+
+</body>
+</html>

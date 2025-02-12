@@ -1,0 +1,14 @@
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\bin\Debug\net8.0\ModusProjekt.exe
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\bin\Debug\net8.0\ModusProjekt.deps.json
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\bin\Debug\net8.0\ModusProjekt.runtimeconfig.json
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\bin\Debug\net8.0\ModusProjekt.dll
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\bin\Debug\net8.0\ModusProjekt.pdb
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.AssemblyInfoInputs.cache
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.AssemblyInfo.cs
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.csproj.CoreCompileInputs.cache
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.dll
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\refint\ModusProjekt.dll
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.pdb
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ModusProjekt.genruntimeconfig.cache
+C:\Users\KanaianA\OneDrive - Fichtner GmbH & Co. KG\Dokumente\it.schule\A1A2\Software\Programming\ModusProjekt\obj\Debug\net8.0\ref\ModusProjekt.dll

@@ -1,0 +1,15 @@
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\bin\Debug\net6.0\DataSorting.exe
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\bin\Debug\net6.0\DataSorting.deps.json
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\bin\Debug\net6.0\DataSorting.runtimeconfig.json
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\bin\Debug\net6.0\DataSorting.dll
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\bin\Debug\net6.0\DataSorting.pdb
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.csproj.AssemblyReference.cache
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.AssemblyInfoInputs.cache
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.AssemblyInfo.cs
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.csproj.CoreCompileInputs.cache
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.dll
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\refint\DataSorting.dll
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.pdb
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\DataSorting.genruntimeconfig.cache
+C:\Users\kanaiana\Documents\Ausbildungsnachweise\DatumSortieren\DataSorting\DataSorting\obj\Debug\net6.0\ref\DataSorting.dll
