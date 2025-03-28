@@ -1,0 +1,17 @@
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\bin\Debug\net6.0-windows\ZahlensystemeUmwandeln.exe
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\bin\Debug\net6.0-windows\ZahlensystemeUmwandeln.deps.json
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\bin\Debug\net6.0-windows\ZahlensystemeUmwandeln.runtimeconfig.json
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\bin\Debug\net6.0-windows\ZahlensystemeUmwandeln.dll
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\bin\Debug\net6.0-windows\ZahlensystemeUmwandeln.pdb
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.csproj.AssemblyReference.cache
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.csproj.GenerateResource.cache
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.AssemblyInfoInputs.cache
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.AssemblyInfo.cs
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.csproj.CoreCompileInputs.cache
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.dll
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\refint\ZahlensystemeUmwandeln.dll
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.pdb
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.genruntimeconfig.cache
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ref\ZahlensystemeUmwandeln.dll
+C:\Users\kanaiana\Documents\it.schule\C3C4_Block\C3C4_BfK-IT-Systeme\Zahlensysteme\ZahlensystemeUmwandeln\ZahlensystemeUmwandeln\obj\Debug\net6.0-windows\ZahlensystemeUmwandeln.Formular.resources
